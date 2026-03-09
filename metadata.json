@@ -1,0 +1,5 @@
+{
+  "name": "OpsFlow Dashboard",
+  "description": "A comprehensive operations dashboard for tracking business events, project passes, and team responsibilities based on key operating activities.",
+  "requestFramePermissions": []
+}
